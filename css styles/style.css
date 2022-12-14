@@ -2,54 +2,46 @@ p{
     color:rgb(32, 107, 29);
     font-family:'Times New Roman', 'Times New Roman', Times, serif;
 }
-
 table{
     color:rgb(48, 59, 4);
     width:50%;
 }
-
 body{
     background-color: rgb(208, 217, 221);
 }
-
 #K1{
     color: rgb(61, 76, 82);
 }
-
 hr{
     background-color:rgb(0, 0, 0);
     width:100%;
     height: 5px;
 }
-
 .photo{border:2px;
     color: rgb(18, 46, 107);
 }
-
 .style{
     color: rgb(42, 42, 185);
     background-color:aliceblue;
 }
-
 .size{
     font-size: 14px;
 }
-
 .resumeBackground
 {
     background-color: rgb(140, 182, 170);
 }
-
 .drinksBackground
 {
     background-color: rgb(88, 153, 65);
-}
-
+}s
 .photosBackground
 {
     background-color: rgb(161, 204, 178);
 }
-
 img{
     border-radius:8px;
+}
+.formstyle{
+    margin-bottom: 20px;
 }
